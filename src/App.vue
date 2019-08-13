@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Holiwi :D"/>
+    <img class="darwin"alt="Vue logo" src="./assets/micara.png">
+    <HelloWorld msg="Bienvenido de nuevo Álvaro"/>
   </div>
 </template>
 
@@ -24,5 +24,9 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+
+}
+.darwin{
+  height: 300px;
 }
 </style>
